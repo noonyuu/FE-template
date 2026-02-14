@@ -1,10 +1,10 @@
-# テンプレート (2025.10/4)
+# テンプレート (2026.2/14)
 
 ## Tech Stack
 
 ### Frontend
 
-- **React 19.1** - UI Library
+- **React 19.2** - UI Library
 - **React Router 7.9** - Routing
 - **TypeScript 5.8** - Type-safe Development
 
