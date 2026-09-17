@@ -1,4 +1,4 @@
-# テンプレート (2026.2/14)
+# テンプレート (2026.9/17)
 
 ## Tech Stack
 
@@ -6,7 +6,7 @@
 
 - **React 19.2** - UI Library
 - **React Router 7.9** - Routing
-- **TypeScript 5.8** - Type-safe Development
+- **TypeScript 7.0** - Type-safe Development
 
 ### Styling
 
@@ -14,7 +14,7 @@
 
 ### Build Tools
 
-- **Vite 7.1** - Fast Build Tool
+- **Vite 8.0** - Fast Build Tool
 - **@vitejs/plugin-react-swc** - SWC-based React Plugin
 
 ### Code Quality
