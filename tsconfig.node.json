@@ -23,9 +23,8 @@
 		"noUncheckedSideEffectImports": true,
 
 		// alias
-		"baseUrl": ".",
 		"paths": {
-			"@/*": ["src/*"]
+			"@/*": ["./src/*"]
 		}
 	},
 	"include": ["vite.config.ts"]
