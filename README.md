@@ -14,7 +14,7 @@
 
 ### Build Tools
 
-- **Vite 8.0** - Fast Build Tool
+- **Vite 8.3** - Fast Build Tool
 - **@vitejs/plugin-react-swc** - SWC-based React Plugin
 
 ### Code Quality
