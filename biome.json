@@ -16,7 +16,9 @@
 		"enabled": true,
 		"rules": {
 			"preset": "recommended",
-			"nursery": { "useTailwindSortedClasses": "warn" }
+			"nursery": {
+				"useTailwindSortedClasses": { "level": "warn", "fix": "safe" }
+			}
 		}
 	},
 	"javascript": {
