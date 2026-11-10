@@ -1,5 +1,5 @@
 allowBuilds:
-  '@swc/core': false
-  '@tailwindcss/oxide': false
+  "@swc/core": false
+  "@tailwindcss/oxide": false
   esbuild: false
   lefthook: false
